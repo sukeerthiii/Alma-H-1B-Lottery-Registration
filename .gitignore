@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Misc
+*.log
+.DS_Store
+*.pem
+.env*
+
+# Editor / tooling
+.cursor/
+.vercel/
+
+# Internal working docs (added to the repo later, on request)
+alma_h1b_assignment_context_for_cursor.md
+H1B_Registration_PRD.md
+H1B_Registration_PRD_v1.md
