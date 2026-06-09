@@ -14,6 +14,6 @@ Next.js (App Router), TypeScript, Tailwind CSS. Deployed on Vercel.
 
 ## Where the logic lives
 
-- `lib/` — the mock data (`data.ts`), the readiness engine (`engine.ts`: status, funnel, ledger, and USCIS CSV logic), the types (`types.ts`), and the client state store (`store.tsx`).
-- `components/` — the UI: app shell, funnel, beneficiary table, triage drawer, wage dial, ledger view, batch monitor, audit panel.
-- `app/` — the routes: portfolio (`/`), all beneficiaries (`/all`), campaign (`/campaign/[id]`), and the guide (`/how-it-works`).
+- `lib/` - the mock data (`data.ts`), the readiness engine (`engine.ts`: status, funnel, ledger, and USCIS CSV logic), the types (`types.ts`), and the client state store (`store.tsx`).
+- `components/` - the UI: app shell, funnel, beneficiary table, triage drawer, wage dial, ledger view, batch monitor, audit panel.
+- `app/` - the routes: portfolio (`/`), all beneficiaries (`/all`), campaign (`/campaign/[id]`), and the guide (`/how-it-works`).

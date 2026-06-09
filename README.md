@@ -11,7 +11,7 @@ Live prototype: https://h1b-console.vercel.app
 
 ## Contents
 
-1. My Thought Train Doc — [Thought-Train.pdf](./Thought-Train.pdf)
-2. PRD — [PRD.pdf](./PRD.pdf)
-3. The Prototype — live at https://h1b-console.vercel.app, code in [`h1b-console`](./h1b-console)
-4. Future Work — [FUTURE_WORK.md](./FUTURE_WORK.md)
+1. My Thought Train Doc - [Thought-Train.pdf](./Thought-Train.pdf)
+2. PRD - [PRD.pdf](./PRD.pdf)
+3. The Prototype - live at https://h1b-console.vercel.app, code in [`h1b-console`](./h1b-console)
+4. Future Work - [FUTURE_WORK.md](./FUTURE_WORK.md)
